@@ -4,3 +4,4 @@ Added .gitignore file
 def connect_db(): pass
 GET /users endpoint implemented
 Refactor: extract user validation
+<h1>Welcome to the App</h1>
