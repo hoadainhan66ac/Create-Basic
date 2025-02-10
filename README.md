@@ -8,3 +8,4 @@ Refactor: extract user validation
 CREATE INDEX ON users(email);
 Added logging middleware
 import matplotlib.pyplot as plt
+Add input form to login page
