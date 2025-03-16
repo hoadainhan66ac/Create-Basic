@@ -11,3 +11,4 @@ import matplotlib.pyplot as plt
 Add input form to login page
 Handle 404 error globally
 theme: dark mode support added
+fetch('/api/stats')
