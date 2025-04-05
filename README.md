@@ -13,3 +13,4 @@ Handle 404 error globally
 theme: dark mode support added
 fetch('/api/stats')
 /* Responsive layout tweaks */
+user.email = request.form['email']
