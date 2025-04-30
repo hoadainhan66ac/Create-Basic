@@ -15,3 +15,4 @@ fetch('/api/stats')
 /* Responsive layout tweaks */
 user.email = request.form['email']
 Add translation support (i18n)
+const result = await fetchData();
