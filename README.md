@@ -17,3 +17,4 @@ user.email = request.form['email']
 Add translation support (i18n)
 const result = await fetchData();
 ALTER TABLE orders ADD status TEXT;
+// Final cleanup
